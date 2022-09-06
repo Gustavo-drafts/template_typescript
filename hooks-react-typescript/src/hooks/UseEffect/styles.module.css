@@ -1,0 +1,15 @@
+.container {
+  color: #ffd701;
+  
+}
+
+.content {
+  background: #040944;
+  width: 50vw;
+  height: 50vh;
+
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
